@@ -5,6 +5,7 @@ A common place to keep helpful resources for informatics, data science, and more
 # Learning Resources
 
 - [ML For Healthcare - MIT](https://mlhcmit.github.io) - Course Website for HST.956 at MIT, Machine Learning for Healthcare. Has slides and problem sets, as well as links to recorded lectures
+- [StrataScratch](https://www.stratascratch.com) - LeetCode for Data Science. An interactive learning resource for learning to use SQL/Python to query data and manipulate data. 
 
 # Research
 
