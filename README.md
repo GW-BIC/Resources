@@ -2,6 +2,14 @@
 
 A common place to keep helpful resources for informatics, data science, and more!
 
+# Learning Resources
+
+- [ML For Healthcare - MIT] - Course Website for HST.956 at MIT, Machine Learning for Healthcare. Has slides and problem sets, as well as links to recorded lectures
+
+# Research
+
+- [Consensus](https://consensus.app/search/) - A search platform using AI to "Aggregate and distill" findings from scientific research
+
 # Regex
 
 - [AutoRegex](https://www.autoregex.xyz) - An "english-regex" translator built on top of GPT-3. 
@@ -11,4 +19,5 @@ A common place to keep helpful resources for informatics, data science, and more
 # Other
 
 - [SteamPipe](https://steampipe.io) - A Command Line tool that allows the use of SQL to access popular cloud services as well as useful APIs (Twitter, Reddit etc...)
+- [Penpot](https://penpot.app) - Open-Source Design app, may be helpful for designing presentations, figures etc
 
