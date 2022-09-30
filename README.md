@@ -4,7 +4,7 @@ A common place to keep helpful resources for informatics, data science, and more
 
 # Learning Resources
 
-- [ML For Healthcare - MIT] - Course Website for HST.956 at MIT, Machine Learning for Healthcare. Has slides and problem sets, as well as links to recorded lectures
+- [ML For Healthcare - MIT](https://mlhcmit.github.io) - Course Website for HST.956 at MIT, Machine Learning for Healthcare. Has slides and problem sets, as well as links to recorded lectures
 
 # Research
 
