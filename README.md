@@ -20,8 +20,13 @@ A common place to keep helpful resources for informatics, data science, and more
 
 - [BertTopic](https://github.com/MaartenGr/BERTopic) - A topic modeling algorithm to disocver topics using BERT language transformer models
 
+# Python Specific
+
+- [DuckDB](https://duckdb.org) - Creates an in-memory database which can be queried and mutated using SQL syntax. Provides APIs is Python, R, and Java
+- [Polars](https://pola-rs.github.io/polars/py-polars/html/reference/) - Performant, multi-threaded Dataframe manipulation library; meant as a replacement for Pandas
+
 # Other
 
 - [SteamPipe](https://steampipe.io) - A Command Line tool that allows the use of SQL to access popular cloud services as well as useful APIs (Twitter, Reddit etc...)
 - [Penpot](https://penpot.app) - Open-Source Design app, may be helpful for designing presentations, figures etc
-- [DuckDB](https://duckdb.org) - Creates an in-memory database which can be queried and mutated using SQL syntax. Provides APIs is Python, R, and Java
+
