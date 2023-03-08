@@ -24,6 +24,7 @@ A common place to keep helpful resources for informatics, data science, and more
 
 - [DuckDB](https://duckdb.org) - Creates an in-memory database which can be queried and mutated using SQL syntax. Provides APIs is Python, R, and Java
 - [Polars](https://pola-rs.github.io/polars/py-polars/html/reference/) - Performant, multi-threaded Dataframe manipulation library; meant as a replacement for Pandas
+- [PyGWalker](https://github.com/Kanaries/pygwalker) - A drag-and-drop library to graph a dataset for Explortatory Data Analysis within a Python environment. Also some mroe advanced features for feature selection etc..
 
 ## Other
 
