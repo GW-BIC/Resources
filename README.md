@@ -19,6 +19,9 @@ A common place to keep helpful resources for informatics, data science, and more
 ## Machine Learning
 
 - [BertTopic](https://github.com/MaartenGr/BERTopic) - A topic modeling algorithm to disocver topics using BERT language transformer models
+- [Ray Tune](https://docs.ray.io/en/latest/tune/index.html) - Automated Hypermparamter Tuning implemented in python for libraries like PyTorch, Tensorflow, and ScikitLearn
+- [Opt_List](https://github.com/google-research/google-research/tree/master/opt_list) - A compiled list of hyperparameters that have been produced by google for various machine learning libraries, that they have tried and found to be effective
+- [MCA](https://pypi.org/project/mca/) - Multiple Correspondence Analysis is like PCA for categorical variables
 
 ## Python Specific
 
