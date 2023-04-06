@@ -34,4 +34,5 @@ A common place to keep helpful resources for informatics, data science, and more
 - [SteamPipe](https://steampipe.io) - A Command Line tool that allows the use of SQL to access popular cloud services as well as useful APIs (Twitter, Reddit etc...)
 - [Penpot](https://penpot.app) - Open-Source Design app, may be helpful for designing presentations, figures etc
 - [RATH](https://docs.kanaries.net/rath/deployment) - A more advanced Tableau-like data visualization suite. A little tricky to put together as of this note (requires spinning it up via node)
+- [Tad](https://github.com/antonycourtney/tad) - Open-Source tabular data viewer. Uses DuckDB to handle millions of rows with a handy GUI. 
 
