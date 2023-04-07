@@ -25,15 +25,17 @@ A common place to keep helpful resources for informatics, data science, and more
 
 ## Python Specific
 
-- [DuckDB](https://duckdb.org) - Creates an in-memory database which can be queried and mutated using SQL syntax. Provides APIs is Python, R, and Java
 - [Polars](https://pola-rs.github.io/polars/py-polars/html/reference/) - Performant, multi-threaded Dataframe manipulation library; meant as a replacement for Pandas
 - [PyGWalker](https://github.com/Kanaries/pygwalker) - A drag-and-drop library to graph a dataset for Explortatory Data Analysis within a Python environment. Also some mroe advanced features for feature selection etc..
 
-## Other
-
+## Data Science
+- [DuckDB](https://duckdb.org) - Creates an in-memory database which can be queried and mutated using SQL syntax. Provides APIs is Python, R, and Java
 - [SteamPipe](https://steampipe.io) - A Command Line tool that allows the use of SQL to access popular cloud services as well as useful APIs (Twitter, Reddit etc...)
-- [Penpot](https://penpot.app) - Open-Source Design app, may be helpful for designing presentations, figures etc
 - [RATH](https://docs.kanaries.net/rath/deployment) - A more advanced Tableau-like data visualization suite. A little tricky to put together as of this note (requires spinning it up via node)
 - [Tad](https://github.com/antonycourtney/tad) - Open-Source tabular data viewer. Uses DuckDB to handle millions of rows with a handy GUI. 
+
+## Other
+
+- [Penpot](https://penpot.app) - Open-Source Design app, may be helpful for designing presentations, figures etc
 - [mjml](https://github.com/mjmlio/mjml) - Open_source tool to design interactive emails
 
